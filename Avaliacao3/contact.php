@@ -3,14 +3,14 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Iury Gomes de Oliveira</title>
+    <title>Iuri Albuquerque Reis</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <meta name="author" content="Iury Gomes de Oliveira" />
-    <meta name="description" content="Portifólio de trabalhos realizados e formação de Iury Gomes de Oliveira" />
+    <meta name="author" content="Iuri Albuquerque Reis" />
+    <meta name="description" content="Portifólio de trabalhos realizados e formação de Iuri Albuquerque Reis" />
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
     <link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css" />
@@ -33,34 +33,37 @@
     <main class="main">
         <div class="container gutter-top">
             <!-- Header -->
-            <!-- Header -->
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Iury Gomes de Oliveira">
+                        <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Iuri Albuquerque Reis">
                     </div>
                     <div class="header__base-info">
-                        <h4 class="title titl--h4">Iury Gomes de Oliveira</h4>
-                        <div class="status">Desenvolvedor WEB</div>
+                        <h4 class="title titl--h4">Iuri Albuquerque Reis</h4>
+                        <div class="status">Estudante Programador WEB</div>
                         <ul class="header__social">
                             <li>
-                                <a href="https://www.linkedin.com/in/iurygdeoliveira/">
+                                <a href="https://www.linkedin.com/in/iuri-albuquerque-reis-7b599253/" target="blank"
+                                    title="Linkedin Iuri Reis" ALT="Linkedin Iuri Reis">
                                     <i class="font-icon icon-linkedin"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/iurygdeoliveira">
+                                <a href="https://github.com/iareis" target="blank" title="GitHub Iuri Reis"
+                                    ALT="GitHub Iuri Reis">
                                     <i class="font-icon icon-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber">
-                                    <i class="font-icon icon-youtube"></i>
+                                <a href="https://twitter.com/iareis" target="blank" title="Twitter Iuri Reis"
+                                    ALT="Twitter Iuri Reis">
+                                    <i class="font-icon icon-twitter"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/IuryProf">
-                                    <i class="font-icon icon-twitter"></i>
+                                <a href="https://www.skoob.com.br/usuario/1193489" target="blank"
+                                    title="Skoob Iuri Reis" ALT="Skoob Iuri Reis">
+                                    <i class="font-icon icon-skoob"></i>
                                 </a>
                             </li>
 
@@ -73,11 +76,12 @@
                             <span class="overhead">
                                 Email
                             </span>
-                            email.comercial@contato.com.br
+                            iuri.gitnub@gmail.com
                         </li>
                         <li>
                             <span class="overhead">Telefone</span><a
-                                href="https://api.whatsapp.com/send?phone=55xxxxxxxxxxx">+55 (xx) xxxxx-xxxx </a>
+                                href="https://api.whatsapp.com/send?phone=5548984657893" target="blank"
+                                title="Whatsapp Iuri Reis" ALT="Whatsapp Iuri Reis">+55 (48) 98465-7893</a>
                         </li>
                     </ul>
                     <ul class="header__contact">
@@ -86,7 +90,7 @@
                             <span class="overhead">
                                 Endereço
                             </span>
-                            Endereço Comercial - UF
+                            FLORIANÓPOLIS - SC
                         </li>
                     </ul>
                 </div>
@@ -169,7 +173,7 @@
                     </div>
 
                     <!-- Footer -->
-                    <footer class="footer">© Iury Gomes de Oliveira</footer>
+                    <footer class="footer">© Iuri Albuquerque Reis</footer>
                 </div>
             </div>
         </div>
