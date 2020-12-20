@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+table {
+    border: 6px;
+    background: white;
+    position: relative;
+    align-items: center;
+}
+
+th {
+    background-color: Steelblue;
+}
+
+td {
+    background-color: Steelblue;
+}
